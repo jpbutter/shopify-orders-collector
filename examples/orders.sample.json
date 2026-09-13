@@ -1,0 +1,24 @@
+[
+  {
+    "id": "gid://shopify/Order/1000000001",
+    "name": "#DEMO-1001",
+    "createdAt": "2026-09-12T10:15:00Z",
+    "updatedAt": "2026-09-12T10:18:00Z",
+    "financialStatus": "PAID",
+    "fulfillmentStatus": "UNFULFILLED",
+    "currencyCode": "EUR",
+    "totalAmount": "49.90",
+    "lineItemCount": 2
+  },
+  {
+    "id": "gid://shopify/Order/1000000002",
+    "name": "#DEMO-1002",
+    "createdAt": "2026-09-12T11:05:00Z",
+    "updatedAt": "2026-09-12T11:07:00Z",
+    "financialStatus": "PAID",
+    "fulfillmentStatus": "FULFILLED",
+    "currencyCode": "EUR",
+    "totalAmount": "18.50",
+    "lineItemCount": 1
+  }
+]
